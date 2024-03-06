@@ -1,0 +1,12 @@
+.home {
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+
+  .list {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+}
